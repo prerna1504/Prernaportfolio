@@ -1,0 +1,28 @@
+{
+    "name":"Vehicle Document Identification",
+    "short_name":"VDIS",
+    "theme_color": "#28166f",
+    "background_color":"#f4f3ef",
+    "display": "standalone",
+    "orientation": "portrait",
+    "prefer_related_applications": false,
+    "Scope": ".",    
+    "id":"/?homescreen=1",
+     "start_url":"https://gauravsonar.netlify.app/",
+    "icons": [
+      {
+        "src": "/images/LOGO72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/LOGO144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+     
+     
+  ]  
+  
+  }
+  
